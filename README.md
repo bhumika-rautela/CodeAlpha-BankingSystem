@@ -2,8 +2,6 @@
 
 A state-of-the-art C++ Terminal-based banking portal designed with **neon/gradient visual themes**, **typing effects**, **custom animations**, and secure cryptographic implementations. The application features multi-profile sign-in, transaction PIN controls, and full text-based database file storage.
 
----
-
 ## ✨ Key Features & Visual Aesthetics
 
 ### 🌈 Visual & Typography Effects
