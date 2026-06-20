@@ -22,3 +22,4 @@ If you discover a security vulnerability in this project, please report it immed
 1. Open an issue on this repository labeled `security`, or contact the maintainer directly.
 2. Provide a clear description of the vulnerability, steps to reproduce, and potential impact.
 3. We will acknowledge receipt within 48 hours and coordinate a patch within 7 business days.
+4. Cloning repo will not be any issue.
